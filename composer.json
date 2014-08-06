@@ -1,0 +1,13 @@
+{
+    "name": "teneff/oauth",
+    "description": "shadowhand/oauth fork",
+    "require": {
+        "kohana/core": "v3.1.*"
+    },
+    "authors": [
+        {
+            "name": "Stefan Teneff",
+            "email": "st.teneff@gmail.com"
+        }
+    ]
+}
